@@ -8,10 +8,6 @@ This is a simple login screen demo built using Flutter. It demonstrates how to i
 - Basic validation for username and password fields.
 - Simple UI design.
 
-## Screenshots
-
-[You can optionally include screenshots of your app here]
-
 ## Getting Started
 
 To run this project locally, follow these steps:
