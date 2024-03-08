@@ -1,16 +1,34 @@
-# login_shared_preference_demo
+# Login Demo for Flutter
 
-A new Flutter project.
+This is a simple login screen demo built using Flutter. It demonstrates how to implement a basic login screen with shared preferences in Flutter.
+
+## Features
+
+- User authentication using shared preferences.
+- Basic validation for username and password fields.
+- Simple UI design.
+
+## Screenshots
+
+[You can optionally include screenshots of your app here]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+git clone https://github.com/Nikul-Nakrani/LoginDemoForFlutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## How It Works
+
+This app utilizes Flutter's shared preferences plugin to store user credentials locally on the device. When the user attempts to log in, their credentials are compared with the stored credentials. If they match, the user is logged in; otherwise, an error message is displayed. 
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
